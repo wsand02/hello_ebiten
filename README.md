@@ -1,4 +1,4 @@
-# hello_ebiten
+# Hello Ebiten!
 ![GitHub repo size](https://img.shields.io/github/repo-size/wilsandbrink/hello_ebiten)
 ![GitHub](https://img.shields.io/github/license/wilsandbrink/hello_ebiten)
 ![GitHub forks](https://img.shields.io/github/forks/wilsandbrink/hello_ebiten)
