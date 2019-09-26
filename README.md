@@ -5,3 +5,5 @@
 ![GitHub stars](https://img.shields.io/github/stars/wilsandbrink/hello_ebiten)
 
 A hello world example for [ebiten](https://github.com/hajimehoshi/ebiten), based on https://ebiten.org/helloworld.html.
+
+Have fun! 😁
