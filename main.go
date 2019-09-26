@@ -11,7 +11,7 @@ func update(screen *ebiten.Image) error {
 	if ebiten.IsDrawingSkipped() {
 		return nil
 	}
-	ebitenutil.DebugPrint(screen, "Hello, world!")
+	ebitenutil.DebugPrint(screen, "Hello, ebiten!")
 	return nil
 }
 
